@@ -1,0 +1,58 @@
+.float1{
+	float:left;
+	width:40px;
+	padding:15px;
+	border: 3px solid black;
+	margin:5px;
+
+	
+}
+.float2{
+	float:left;
+	width:40px;
+	padding:15px;
+	border: 3px solid black;
+	margin:5px;
+
+}
+.float3{
+	float:right;
+	width:40px;
+	padding:15px;
+	border: 3px solid black;
+	margin:5px;
+
+	
+}
+.float4{
+	float:right;
+	width:40px;
+	padding:15px;
+	border: 3px solid black;
+	margin:5px;
+
+	
+}
+
+.float5{
+	float:left;
+	clear:both;
+	width:40px;
+	padding:15px;
+	border: 3px solid black;
+	margin:5px;
+
+}
+.float6{
+	float:right;
+	clear: both;
+	width:40px;
+	padding:15px;
+	border: 3px solid black;
+	margin:5px;
+
+	
+}
+
+	
+	
